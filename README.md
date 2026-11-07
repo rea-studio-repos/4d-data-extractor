@@ -29,6 +29,14 @@ Move to a database you can query immediately or to files that are easy to integr
 
 ![A 4D database and the relevant versions, connected by arrows to SQLite, JSON and XML.](assets/flow.webp)
 
+## Mac OS Classic databases: preserve resource forks
+
+For a database originating from Mac OS Classic, we recommend placing the structure and data file together in a SIT or SITX archive created on an older Mac or in an emulator running Mac OS Classic. This preserves resource forks when transferring the files to Mac or Windows.
+
+Recovery may sometimes remain possible even if resource forks are missing or damaged, provided the required structure and data are still readable.
+
+4D Data Extractor opens SIT archives and SITX variants supported by its built-in readers directly, without first extracting them in another application.
+
 ## Compatibility
 
 Read the supported-version grid in the wiki. [Wiki →](https://github.com/rea-studio-repos/4d-data-extractor/wiki)
