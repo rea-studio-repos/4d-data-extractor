@@ -8,7 +8,7 @@
 
 4D Data Extractor abre una copia de tu base, identifica sus tablas y te guía hacia formatos actuales sin modificar los originales.
 
-**macOS 14+ · Apple Silicon · REA Studio**
+**macOS 14+ (Apple Silicon) · Windows 10 / 11 · REA Studio**
 
 ## Funciones
 
