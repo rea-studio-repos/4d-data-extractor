@@ -1,0 +1,42 @@
+<p align="center"><img src="assets/icon.webp" width="112" alt="4D Data Extractor"></p>
+<h1 align="center">4D Data Extractor</h1>
+<p align="center"><strong>Vos anciennes bases 4D retrouvent un avenir.</strong></p>
+<p align="center">[English](README.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md)</p>
+<p align="center"><a href="https://rea.com.co/fr/applications/4d-data-extractor/">Site officiel</a> · <a href="https://github.com/rea-studio-repos/4d-data-extractor/releases">Téléchargements</a> · <a href="https://github.com/rea-studio-repos/4d-data-extractor/wiki">Wiki</a></p>
+
+![Deux vues de 4D Data Extractor : ouverture d’une base et choix du format d’export.](assets/showcase.webp)
+
+4D Data Extractor ouvre une copie de votre base, identifie ses tables et vous accompagne jusqu’à des formats actuels, sans modifier les originaux.
+
+**macOS 14+ · Apple Silicon · REA Studio**
+
+## Fonctionnalités
+
+- **Travail sur une copie** — L’analyse et l’export s’effectuent sur la copie que vous choisissez. La base d’origine n’est pas modifiée.
+- **Bases sources ou compilées** — L’application recherche les structures et données disponibles dans les bases sources comme dans les bases compilées reconnues.
+- **Trois formats de sortie** — Centralisez les tables dans une base SQLite ou exportez-les en JSON et XML.
+- **Exports ajustables** — Pour JSON et XML, créez un ensemble regroupé ou un fichier par table, avec une limite d’enregistrements par fichier.
+- **Diagnostic à la demande** — Activez le diagnostic des métadonnées lorsque vous souhaitez approfondir l’analyse de la base.
+- **Sans ancienne installation 4D** — Récupérez les données sans installer une ancienne version de 4D et sans exécuter les méthodes de la base.
+
+## Formats d’export
+
+| SQLite | JSON | XML |
+| :---: | :---: | :---: |
+| .sqlite | .json | .xml |
+
+Passez à une base directement interrogeable ou à des fichiers faciles à intégrer dans vos outils, traitements et archives.
+
+![Une base 4D et les versions concernées, reliées par des flèches aux formats SQLite, JSON et XML.](assets/flow.webp)
+
+## Compatibilité
+
+Consultez la grille des versions prises en charge dans le wiki. [Wiki →](https://github.com/rea-studio-repos/4d-data-extractor/wiki)
+
+## Téléchargements
+
+Retrouvez les installateurs disponibles dans les releases GitHub. Chaque release précise les plateformes prises en charge. [Releases →](https://github.com/rea-studio-repos/4d-data-extractor/releases)
+
+---
+
+<p align="center"><strong>REA Studio</strong> · <a href="https://rea.com.co/">rea.com.co</a></p>
