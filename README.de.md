@@ -29,6 +29,14 @@ Wechseln Sie zu einer direkt abfragbaren Datenbank oder zu Dateien, die sich lei
 
 ![Eine 4D-Datenbank und die zugehörigen Versionen, über Pfeile mit SQLite, JSON und XML verbunden.](assets/flow.webp)
 
+## Mac OS Classic: Resource Forks erhalten
+
+Bei einer Datenbank aus Mac OS Classic empfehlen wir, Struktur- und Datendatei gemeinsam in ein SIT- oder SITX-Archiv zu packen. Erstellen Sie das Archiv auf einem älteren Mac oder in einem Emulator mit Mac OS Classic, damit die Resource Forks bei der Übertragung auf Mac oder Windows erhalten bleiben.
+
+Auch bei fehlenden oder beschädigten Resource Forks kann eine Wiederherstellung manchmal möglich sein, sofern die benötigte Struktur und die Daten noch lesbar sind.
+
+4D Data Extractor öffnet SIT-Archive und SITX-Varianten, die seine integrierten Leser unterstützen, direkt. Ein vorheriges Entpacken in einem anderen Programm ist nicht erforderlich.
+
 ## Kompatibilität
 
 Die Übersicht der unterstützten Versionen finden Sie im Wiki. [Wiki →](https://github.com/rea-studio-repos/4d-data-extractor/wiki)
