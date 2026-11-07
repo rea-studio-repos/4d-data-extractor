@@ -29,6 +29,14 @@ Pasa a una base que puedes consultar directamente o a archivos fáciles de integ
 
 ![Una base 4D y las versiones correspondientes, conectadas mediante flechas con SQLite, JSON y XML.](assets/flow.webp)
 
+## Bases de Mac OS Classic: conservar los forks de recursos
+
+Para una base procedente de Mac OS Classic, recomendamos reunir la estructura y el archivo de datos en un archivo SIT o SITX creado desde un Mac antiguo o un emulador que ejecute Mac OS Classic. Así se conservan los forks de recursos durante la transferencia a Mac o Windows.
+
+A veces es posible recuperar los datos aunque los forks de recursos falten o estén dañados, siempre que la estructura y los datos necesarios sigan siendo legibles.
+
+4D Data Extractor abre directamente los archivos SIT y las variantes SITX compatibles con sus lectores integrados, sin descomprimirlos previamente en otro programa.
+
 ## Compatibilidad
 
 Consulta la tabla de versiones compatibles en el wiki. [Wiki →](https://github.com/rea-studio-repos/4d-data-extractor/wiki)
