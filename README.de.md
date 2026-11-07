@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/icon.webp" width="112" alt="4D Data Extractor"></p>
 <h1 align="center">4D Data Extractor</h1>
 <p align="center"><strong>Geben Sie Ihren älteren 4D-Datenbanken eine Zukunft.</strong></p>
-<p align="center">[English](README.md) · [Français](README.fr.md) · [Español](README.es.md) · [Deutsch](README.de.md)</p>
+<p align="center"><a href="README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a></p>
 <p align="center"><a href="https://rea.com.co/de/applications/4d-data-extractor/">Produktwebsite</a> · <a href="https://github.com/rea-studio-repos/4d-data-extractor/releases">Downloads</a> · <a href="https://github.com/rea-studio-repos/4d-data-extractor/wiki">Wiki</a></p>
 
 ![Zwei Ansichten von 4D Data Extractor: Öffnen einer Datenbank und Auswahl des Exportformats.](assets/showcase.webp)
