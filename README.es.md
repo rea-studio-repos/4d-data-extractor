@@ -2,7 +2,7 @@
 <h1 align="center">4D Data Extractor</h1>
 <p align="center"><strong>Tus antiguas bases 4D vuelven a tener futuro.</strong></p>
 <p align="center"><a href="README.md">English</a> · <a href="README.fr.md">Français</a> · <a href="README.es.md">Español</a> · <a href="README.de.md">Deutsch</a></p>
-<p align="center"><a href="https://rea.com.co/applications/4d-data-extractor/">Sitio oficial</a> · <a href="https://github.com/rea-studio-repos/4d-data-extractor/releases">Descargas</a> · <a href="https://github.com/rea-studio-repos/4d-data-extractor/wiki">Wiki</a></p>
+<p align="center"><a href="https://rea.com.co/applications/4d-data-extractor/">Sitio oficial</a> · <a href="https://rea.com.co/applications/4d-data-extractor/download/">Descargas</a> · <a href="https://rea.com.co/applications/4d-data-extractor/#support">Ayuda</a></p>
 
 ![Dos vistas de 4D Data Extractor: apertura de una base y selección del formato de exportación.](assets/showcase.webp)
 
@@ -39,11 +39,11 @@ A veces es posible recuperar los datos aunque los forks de recursos falten o est
 
 ## Compatibilidad
 
-Consulta la tabla de versiones compatibles en el wiki. [Wiki →](https://github.com/rea-studio-repos/4d-data-extractor/wiki)
+Consulta los formatos y las plataformas compatibles en la página oficial del producto. [Página oficial →](https://rea.com.co/applications/4d-data-extractor/)
 
 ## Descargas
 
-Encuentra los instaladores disponibles en las releases de GitHub. Cada release indica las plataformas compatibles. [Releases →](https://github.com/rea-studio-repos/4d-data-extractor/releases)
+Descarga la versión para macOS desde el sitio de REA. Para Windows, usa el enlace de Microsoft Store en la página del producto. [Obtener 4D Data Extractor →](https://rea.com.co/applications/4d-data-extractor/download/)
 
 ---
 
